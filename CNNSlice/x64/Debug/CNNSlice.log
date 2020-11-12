@@ -1,0 +1,4 @@
+﻿  AddingNoise.cpp
+d:\workspace\cnnslice_dac\cnnslice\cnnslice\addingnoise.cpp(219): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\workspace\cnnslice_dac\cnnslice\cnnslice\addingnoise.cpp(326): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  CNNSlice.vcxproj -> D:\workspace\CNNslice_DAC\CNNSlice\x64\Debug\CNNSlice.exe
